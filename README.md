@@ -14,7 +14,7 @@
  </div>
 
 
-The accept papers go through the same review process as the regular papers. If a special session has more than 5 papers being accepted, some of the papers will be moved to the regular paper sessions of the conference.
+The accept papers will be the oral paper at ICME (top 15%), and go through the same peer review process as the regular papers. If a special session has more than 5 papers being accepted, some of the papers will be moved to the regular paper sessions of the conference.
 
 ## Abstract:
 In this special session, we aim to bring together the latest advances in Responsible, Responsive, and Robust (3R) multimedia retrieval, and draw attention from both the academic and industrial communities. A Responsible system aims to protect users’ privacy and related rights; a Responsive system focuses on the efficient and effective feedback on million-scale input data; while a Robust system ensures reliability and reproducibility of predictions and avoids unnecessary fatal errors.
