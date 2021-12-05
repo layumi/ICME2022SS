@@ -52,10 +52,10 @@ In this special session, we aim to bring together the latest advances in Respons
 
 ## Organizing Team
 
-| ![avatar](https://zdzheng.xyz/images/profile.jpg) |![avatar](./picture/2.png) |![avatar](http://zheng-lab.cecs.anu.edu.au/1.jpg) |
+| <img src="https://zdzheng.xyz/images/profile.jpg" width="160"> |<img src="./picture/2.png" width="160"> |<img src="http://zheng-lab.cecs.anu.edu.au/1.jpg" width="160"> |
 | :-: | :-: | :-: |
 |  Zhedong Zheng, National University of Singapore, Singapore | Linchao Zhu, University of Technology Sydney, Australia | Liang Zheng, Australian National University, Australia |
-| ![avatar](./picture/4.png) | ![avatar](./picture/5.png) |
+| <img src="./picture/4.png" width="160"> |  <img src="./picture/5.png" width="160"> |
 |  Yi Yang, Zhejiang University , China | Tat-Seng Chua, National University of Singapore, Singapore |
 
 
