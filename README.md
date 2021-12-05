@@ -12,9 +12,9 @@
   <h2> Beyond Accuracy: Responsible, Responsive, and Robust Multimedia Retrieval
 </h2>
  </div>
- 
 
 
+The accept papers go through the same review process as the regular papers. If a special session has more than 5 papers being accepted, some of the papers will be moved to the regular paper sessions of the conference.
 
 ## Abstract:
 In this special session, we aim to bring together the latest advances in Responsible, Responsive, and Robust (3R) multimedia retrieval, and draw attention from both the academic and industrial communities. A Responsible system aims to protect users’ privacy and related rights; a Responsive system focuses on the efficient and effective feedback on million-scale input data; while a Robust system ensures reliability and reproducibility of predictions and avoids unnecessary fatal errors.
@@ -61,7 +61,7 @@ In this special session, we aim to bring together the latest advances in Respons
 
 ## Conference and Journal Papers
 
-***The special session submission site is open and can be accessed at <a href="https://cmt3.research.microsoft.com/ICME2021">https://cmt3.research.microsoft.com/ICME2021</a>. Under "Create New Submission", the authors need to choose the "subject area" as the desired "special session x", so the papers can be counted as special sessions.  If they choose other subject areas, the papers will belong to the main program.***
+***The special session submission site is open and can be accessed at <a href="https://cmt3.research.microsoft.com/ICME2022">https://cmt3.research.microsoft.com/ICME2022</a>. Under "Create New Submission", the authors need to choose the "subject area" as the desired "special session x", so the papers can be counted as special sessions.  If they choose other subject areas, the papers will belong to the main program.***
 
 All papers presented at ICME 2022 will be included in IEEE Xplore. All papers submitted to this special session will go through the same review process as the regular papers submitted to the main conference to ensure that the contributions are of high quality. If a special session has more than 5 papers being accepted, some of the papers will be moved to the regular paper sessions of the conference.
 The IEEE Transactions on Multimedia is partnering with IEEE ICME. Extended versions of the top-ranked ICME 2022 papers will be invited for submission and potential publication in the IEEE Transactions on Multimedia and IEEE Open Journal of Circuits and Systems. We invite authors to submit high-quality contributions aiming at taking part in this call and to have the opportunity to publish an extended ICME paper in this prestigious journal. After the due review process, if your paper is highly ranked, the Technical Program Committee Chairs will get in touch with you regarding the next steps.
