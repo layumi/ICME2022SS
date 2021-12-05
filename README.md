@@ -57,7 +57,7 @@ In this special session, we aim to bring together the latest advances in Respons
 
 ## Organizing Team
 
-| ![avatar](https://zdzheng.xyz/images/profile.jpg) |![avatar]() |![avatar](http://zheng-lab.cecs.anu.edu.au/1.jpg) |
+| ![avatar](https://zdzheng.xyz/images/profile.jpg) |![avatar](./picture/2.png) |![avatar](http://zheng-lab.cecs.anu.edu.au/1.jpg) |
 | :-: | :-: | :-: |
 |  Zhedong Zheng, National University of Singapore, Singapore | Linchao Zhu, University of Technology Sydney, Australia | Liang Zheng, Australian National University, Australia |
 | ![avatar](./picture/4.png) | ![avatar](./picture/5.png) |
