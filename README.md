@@ -47,7 +47,7 @@ In this special session, we aim to bring together the latest advances in Respons
 
 **Submission of papers:**
 
-* New Regular Paper Submission deadline: December 12, 2021 [11:59 p.m. PST]
+* New Regular Paper Submission deadline: December 22, 2021 [11:59 p.m. PST]
 * Paper acceptance notification: March 5, 2022
 
 ## Organizing Team
