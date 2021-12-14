@@ -56,7 +56,7 @@ In this special session, we aim to bring together the latest advances in Respons
 | :-: | :-: | :-: |
 |  [Zhedong Zheng](zdzheng.xyz), National University of Singapore, Singapore | [Linchao Zhu](http://ffmpbgrnn.github.io), University of Technology Sydney, Australia | [Liang Zheng](https://zheng-lab.cecs.anu.edu.au), Australian National University, Australia |
 | <img src="./picture/4.png" width="160"> |  <img src="./picture/5.png" width="160"> |
-|  Yi Yang, Zhejiang University, China | [Tat-Seng Chua](https://www.chuatatseng.com), National University of Singapore, Singapore |
+|  [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ), Zhejiang University, China | [Tat-Seng Chua](https://www.chuatatseng.com), National University of Singapore, Singapore |
 
 
 ## Conference and Journal Papers
