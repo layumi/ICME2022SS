@@ -42,6 +42,14 @@ In this special session, we aim to bring together the latest advances in Respons
 -	Robust: Uncertainty-based Model Evaluation / Training
 -	Robust: New Adversarial Samples / Defense Methods for Multimedia Retrieval
 
+**Reference:**
+
+[1] Kendall A, Gal Y. What uncertainties do we need in bayesian deep learning for computer vision? NeurIPS, 2017.
+
+[2] Zheng Z, Yang Y. Rectifying pseudo label learning via uncertainty estimation for domain adaptive semantic segmentation. IJCV, 2021. 
+
+[3] Four Principles of Explainable Artificial Intelligence (https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf)
+
 
 ## Important Dates
 
