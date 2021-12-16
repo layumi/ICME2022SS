@@ -50,6 +50,7 @@ In this special session, we aim to bring together the latest advances in Respons
 
 [3] Four Principles of Explainable Artificial Intelligence (https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf)
 
+[4] Zheng, Z., Ruan, T., Wei, Y., Yang, Y., & Mei, T. VehicleNet: Learning robust visual representation for vehicle re-identification. TMM, 2020.
 
 ## Important Dates
 
