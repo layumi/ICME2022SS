@@ -52,6 +52,10 @@ In this special session, we aim to bring together the latest advances in Respons
 
 [4] Zheng, Z., Ruan, T., Wei, Y., Yang, Y., & Mei, T. VehicleNet: Learning robust visual representation for vehicle re-identification. TMM, 2020.
 
+**Tips:**
+- For privacy protection, please blur faces in the published materials (such as paper, video, poster, etc.) 
+- For social good, please do not contain any misleading words, such as `surveillance' and  `secret'.
+
 ## Important Dates
 
 **Submission of papers:**
