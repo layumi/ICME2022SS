@@ -1,7 +1,3 @@
----
-title: ICME2022SS
----
-
  <div align='center' > 
   <h2> IEEE International Conference on Multimedia and Expo </h2>
  </div>
