@@ -1,3 +1,8 @@
+---
+layout: default
+title: ICME2022SS
+theme: jekyll-theme-tactile
+---
 
  <div align='center' > 
   <h2> IEEE International Conference on Multimedia and Expo </h2>
