@@ -1,5 +1,4 @@
 ---
-layout: ICME2022SS
 title: ICME2022SS
 ---
 
