@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: ICME2022SS
 title: ICME2022SS
-theme: jekyll-theme-tactile
 ---
 
  <div align='center' > 
