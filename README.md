@@ -16,8 +16,8 @@ author_profile: false
  
  <div align='center' > 
   <h2> Special Session on </h2>
-  <h2> Beyond Accuracy: Responsible, Responsive, and Robust Multimedia Retrieval
-</h2>
+  <h1> Beyond Accuracy: Responsible, Responsive, and Robust Multimedia Retrieval
+</h1>
  </div>
 
 
@@ -72,10 +72,10 @@ In this special session, we aim to bring together the latest advances in Respons
 
 ## Organizing Team
 
-| <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160"> |<img src="https://github.com/layumi/ICME2022SS/blob/main/picture/2.png?raw=true" width="160"> |<img src="http://zheng-lab.cecs.anu.edu.au/1.jpg" width="160"> |
+| <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160" alt="Zhedong Zheng"> |<img src="https://github.com/layumi/ICME2022SS/blob/main/picture/2.png?raw=true" width="160" alt="Linchao Zhu"> |<img src="http://zheng-lab.cecs.anu.edu.au/1.jpg" width="160" alt="Liang Zheng"> |
 | :-: | :-: | :-: |
 |  [Zhedong Zheng](zdzheng.xyz), National University of Singapore, Singapore | [Linchao Zhu](http://ffmpbgrnn.github.io), University of Technology Sydney, Australia | [Liang Zheng](https://zheng-lab.cecs.anu.edu.au), Australian National University, Australia |
-| <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/4.png?raw=true" width="160"> |  <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/5.png?raw=true" width="160"> |
+| <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/4.png?raw=true" width="160" alt="Yi Yang"> |  <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/5.png?raw=true" width="160" alt="Tat-seng Chua"> |
 |  [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ), Zhejiang University, China | [Tat-Seng Chua](https://www.chuatatseng.com), National University of Singapore, Singapore |
 
 
