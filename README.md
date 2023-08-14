@@ -11,7 +11,7 @@ author_profile: false
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/icme.png?raw=true" margn-right="20px" ><a href="https://2022.ieeeicme.org/"> ICME 2022 </a><a href="https://2022.ieeeicme.org/">(https://2022.ieeeicme.org/)</a> </h2>
+  <h2> <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/icme.png?raw=true" margn-right="20px" alt="ICME 2022 Special Session" ><a href="https://2022.ieeeicme.org/"> ICME 2022 </a><a href="https://2022.ieeeicme.org/">(https://2022.ieeeicme.org/)</a> </h2>
  </div>
  
  <div align='center' > 
