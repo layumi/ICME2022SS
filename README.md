@@ -11,7 +11,7 @@ author_profile: false
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/icme.png?raw=true" margn-right="20px" alt="ICME 2022 Special Session" ><a href="https://2022.ieeeicme.org/"> ICME 2022 </a><a href="https://2022.ieeeicme.org/">(https://2022.ieeeicme.org/)</a> </h2>
+  <h2> <img src="https://raw.githubusercontent.com/layumi/ICME2022SS/blob/main/picture/icme.png" margn-right="20px" alt="ICME 2022 Special Session" ><a href="https://2022.ieeeicme.org/"> ICME 2022 </a><a href="https://2022.ieeeicme.org/">(https://2022.ieeeicme.org/)</a> </h2>
  </div>
  
  <div align='center' > 
@@ -72,10 +72,10 @@ In this special session, we aim to bring together the latest advances in Respons
 
 ## Organizing Team
 
-| <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160" alt="Zhedong Zheng"> |<img src="https://github.com/layumi/ICME2022SS/blob/main/picture/2.png?raw=true" width="160" alt="Linchao Zhu"> |<img src="https://zheng-lab.cecs.anu.edu.au/1.jpg" width="160" alt="Liang Zheng"> |
+| <img src="https://raw.githubusercontent.com/layumi/ICME2022SS/blob/main/picture/1.png" width="160" alt="Zhedong Zheng"> |<img src="https://raw.githubusercontent.com/layumi/ICME2022SS/blob/main/picture/2.png" width="160" alt="Linchao Zhu"> |<img src="https://zheng-lab.cecs.anu.edu.au/1.jpg" width="160" alt="Liang Zheng"> |
 | :-: | :-: | :-: |
 |  [Zhedong Zheng](https://zdzheng.xyz), National University of Singapore, Singapore | [Linchao Zhu](https://ffmpbgrnn.github.io), University of Technology Sydney, Australia | [Liang Zheng](https://zheng-lab.cecs.anu.edu.au), Australian National University, Australia |
-| <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/4.png?raw=true" width="160" alt="Yi Yang"> |  <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/5.png?raw=true" width="160" alt="Tat-seng Chua"> |
+| <img src="https://raw.githubusercontent.com/layumi/ICME2022SS/blob/main/picture/4.png" width="160" alt="Yi Yang"> |  <img src="https://raw.githubusercontent.com/layumi/ICME2022SS/blob/main/picture/5.png" width="160" alt="Tat-seng Chua"> |
 |  [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ), Zhejiang University, China | [Tat-Seng Chua](https://www.chuatatseng.com), National University of Singapore, Singapore |
 
 
